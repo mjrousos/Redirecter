@@ -1,0 +1,1 @@
+swa deploy --app-location public --env production --verbose
